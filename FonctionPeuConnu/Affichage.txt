@@ -1,0 +1,2 @@
+TrayTip("Installation", "l'installation débute", 1000)
+;affiche une infobulle en bas à droite de l'écran.
