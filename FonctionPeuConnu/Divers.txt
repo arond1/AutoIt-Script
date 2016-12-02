@@ -1,0 +1,2 @@
+#requireadmin
+;permet de demander les droit d'adminitration au lancement de l'application util en cas d'installation
